@@ -50,7 +50,7 @@ body {
 .content {
   background: $body-bg;
   color: $body-color;
-  padding: $section-spacing;
+  //padding: $section-spacing;  //i change
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill
@@ -61,7 +61,7 @@ body {
 
   > .content {
     flex-grow: 1;
-    padding-bottom: $section-spacing * 2;
+   // padding-bottom: $section-spacing * 2; //i change
   }
 }
 
@@ -69,13 +69,13 @@ body {
   Mobile view
 ----------------------------------------------------------- */
 
-// Hide secondary nav content in sidebar
+// Hide secondary nav content in sidebar //i change none to left
 // Hide lead paragraph in sidebar
 #sidebar {
   header ~ *,
   header ~ nav,
   p.lead {
-    display: none;
+    display: left;
   }
 }
 
