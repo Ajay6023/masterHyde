@@ -9,7 +9,7 @@
 .pagination {
   color: $gray-3;
   margin-bottom: $section-spacing;
-  text-align: left;
+  text-align: center;
 
   > a {
     background: $body-bg;
@@ -20,7 +20,7 @@
     display: inline-block;
     max-width: $sidebar-width;
     padding: $padding-v $padding-h;
-    width: 60%;
+    width: 70%;
   }
 
   > a:hover {
