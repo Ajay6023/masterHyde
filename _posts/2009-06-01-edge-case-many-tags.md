@@ -27,7 +27,7 @@ tags:
   - Jekyll
   - layout
   - link
-  - 123
+  - love
   - markup
   - Mothership
   - Must Read
