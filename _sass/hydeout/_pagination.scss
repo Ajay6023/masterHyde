@@ -33,10 +33,10 @@
   margin-top: $section-spacing;
 }
 
-// Push above header if newer on mobile
-.content .pagination:first-child {
-  margin-top: -$section-spacing * 2;
-}
+ // Push above header if newer on mobile
+// .content .pagination:first-child {
+ // margin-top: -$section-spacing * 2;
+// }
 
 // Make room for larger header by extending margin below title
 .index #sidebar {
