@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:     Gokulvasan
-tagline:          'A Jekyll theme'
+tagline:          'Sample Jekyll theme'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://ajay6023.github.io
 baseurl:          '/masterHyde'
