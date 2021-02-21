@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Blog Posts
+category: Hoola
 ---
 
 Sample category page. You need to create a page for each category.
