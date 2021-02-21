@@ -1,6 +1,6 @@
 ---
 layout: category
-title: &nbsp;&nbsp;&nbsp;&nbsp;Post3
+title: Post3
 ---
 
 Sample category page. You need to create a page for each category.
